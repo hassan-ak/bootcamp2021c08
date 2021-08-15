@@ -10,3 +10,10 @@
 
 - [Hello CDK](./step00_hello_cdk)
 - [Hello Lambda](./step01_hello_lambda)
+
+## Class 8 Videos:
+
+- [English on YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=kiOcVAPwlzQ&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/204372268374467)
