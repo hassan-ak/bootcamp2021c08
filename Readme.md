@@ -1,5 +1,9 @@
 # AWS CDK and Lambda Hello World
 
+## Class Notes
+
+Working with cloud have a major issue of lockin where we are stuck with same cloud provider. kubernetes was one of the solution to this issue but working on a large scale is not possible with out using cloud as it provides the major benifit of scalability.
+
 ## Reading Material
 
 - [AWS Free Tier](https://aws.amazon.com/free/)
