@@ -4,6 +4,39 @@
 
 Working with cloud have a major issue of lockin where we are stuck with same cloud provider. kubernetes was one of the solution to this issue but working on a large scale is not possible with out using cloud as it provides the major benifit of scalability.
 
+## How to use AWS CDK
+
+- Signup to AWS
+- Create IAM user
+  - Navigate to IAM section of the services.
+  - Select users from access management
+  - Select user name and grant programmatic access
+  - Add to a group or create new with permissions
+  - Tags (optional)
+  - Review and create user
+  - At the end access key and id will be generated
+- Install TypeScript
+  - "npm install -g typescript"
+- Install AWS CLI
+  - Download and install from [here](https://awscli.amazonaws.com/AWSCLIV2.msi)
+  - "aws --version"
+- Install AWS SAM CLI
+  - Create AWS account
+  - Create IAM user
+  - Install docker
+    - [Downlaod](https://docs.docker.com/docker-for-windows/install/)
+    - Configure shared drives
+    - "docker ps"
+  - Install CLI
+    - [Downalod](https://github.com/aws/aws-sam-cli/releases/latest/download/AWS_SAM_CLI_64_PY3.msi)
+    - "sam --version"
+  - Install Git
+- Install AWS CDK
+
+  - "aws configure"
+  - "npm install -g aws-cdk"
+  - "cdk --version"
+
 ## Reading Material
 
 - [AWS Free Tier](https://aws.amazon.com/free/)
