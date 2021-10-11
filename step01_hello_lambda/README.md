@@ -1,4 +1,4 @@
-# Hello Lambda
+# Step01 - Hello Lambda
 
 # Steps to compile the code
 
