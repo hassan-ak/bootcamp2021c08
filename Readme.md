@@ -1,4 +1,6 @@
-# AWS CDK and Lambda Hello World
+# bootcamp2021c08 - AWS CDK and Lambda Hello World
+
+## Hello CDK
 
 ## Class Notes
 
@@ -50,7 +52,7 @@ Working with cloud have a major issue of lockin where we are stuck with same clo
 
 ## Class 8 Videos:
 
-- [English on YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
-- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
-- [Urdu on YouTube](https://www.youtube.com/watch?v=kiOcVAPwlzQ&ab_channel=PanacloudUrduCloudAICourse)
-- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/204372268374467)
+- [English YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
+- [Urdu YouTube](https://www.youtube.com/watch?v=kiOcVAPwlzQ&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu Facebook](https://www.facebook.com/Ai.SirQasim/videos/204372268374467)
