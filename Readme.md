@@ -1,6 +1,11 @@
-# bootcamp2021c08 - AWS CDK and Lambda Hello World
+# bootcamp2021c08 - Introduction to Serverless and Cloud Computing using CDK - AWS CDK, Lambda and CDN Website Deployment - AWS CDK Hello World
 
-## Hello CDK
+## AWS CDK Hello World
+- setup cdk app
+- create s3 bucket
+- Deploy cdk app
+- Destroy cdk app
+- cdk config on system
 
 ## Class Notes
 
@@ -50,7 +55,7 @@ Working with cloud have a major issue of lockin where we are stuck with same clo
 - [Hello CDK](./step00_hello_cdk)
 - [Hello Lambda](./step01_hello_lambda)
 
-## Class 8 Videos:
+## Class 8 Videos: AWS CDK Hello World
 
 - [English YouTube](https://www.youtube.com/watch?v=yyuQ6f6znXc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/261780865432466)
